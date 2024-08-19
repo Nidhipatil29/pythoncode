@@ -1,2 +1,2 @@
 print ("This is my test python code.")
-print ("hello buddy. V2")
+print "hello buddy. V2")
